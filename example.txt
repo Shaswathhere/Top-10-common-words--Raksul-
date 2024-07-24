@@ -1,0 +1,8 @@
+You are given an array of integers. Write a JavaScript function that takes the size of an array and the array elements as input from the user. Your task is to find the contiguous subarray within the array that has the largest sum of elements. Implement a function that returns this maximum sum. Please do not use functions from existing libraries.
+
+Instructions:
+
+Implement the function maxSubArray that takes an array of integers as input and returns an integer.
+Get the size of the array and the array elements from the user.
+Explain the time complexity of your solution in comments for bonus points.
+Example For the input:
